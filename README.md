@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Rucha Goje  
 
-<!--
-**ruchagoje/ruchagoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year **B.Tech in Computer and Data Science** student with a passion for transforming data into actionable insights.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 📊 Skilled in **SQL, Python, Power BI, Tableau, and R**  
+- 🔍 Strong experience in **EDA, ETL, Dashboarding, and Data Modeling**  
+- 🛠️ Hands-on with **data visualization, cleaning, and storytelling**  
+- 🌱 Currently exploring **Full Stack Development & Advanced Data Analytics**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+- **HR Resources Dashboard** – Built an interactive HR dashboard (Power BI + SQL) to analyze attrition, hiring, and attendance trends, automating reporting by 40%.  
+- **Exploratory Data Analysis** – Conducted EDA on real-world datasets using **Python, Pandas, and Seaborn** to uncover insights and patterns.  
+
+## 🏅 Certifications  
+- SQL and Relational Databases 101 – **IBM**  
+- Data Analytics on AWS – **AWS**  
+- Python for Data Science – **NPTEL-SWAYAM**  
+- Data Analytics Job Simulation – **Deloitte, Forage**  
+- Data Analytics & Business Analytics – **NareshIT**  
+
+## 🛠️ Tech Stack  
+**Languages & Tools:** Python, Pandas, PySpark, SQL, R, MS Excel  
+**Visualization:** Power BI (DAX, Power Query), Tableau  
+**Workflow:** Data Cleaning | EDA | ETL | Data Modeling  
+
+## 🌐 Connect with Me  
+📫 Email: **ruchagoje@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/ruchagoje) | [GitHub](https://github.com/ruchagoje)  
+
+---
+✨ Always curious to learn, build, and share knowledge through data & technology!  
