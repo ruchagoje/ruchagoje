@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Rucha Goje  
 
-🎓 Final-year **B.Tech in Computer and Data Science** student with a passion for transforming data into actionable insights.  
+🎓**B.Tech in Computer and Data Science** student with a passion for transforming data into actionable insights.  
 
 ## 🚀 About Me  
 - 📊 Skilled in **SQL, Python, Power BI, Tableau, and R**  
 - 🔍 Strong experience in **EDA, ETL, Dashboarding, and Data Modeling**  
 - 🛠️ Hands-on with **data visualization, cleaning, and storytelling**  
-- 🌱 Currently exploring **Full Stack Development & Advanced Data Analytics**  
+- 🌱 Currently exploring **AI/ML & Advanced Data Analytics**  
 
 ## 📂 Featured Projects  
 - **HR Resources Dashboard** – Built an interactive HR dashboard (Power BI + SQL) to analyze attrition, hiring, and attendance trends, automating reporting by 40%.  
